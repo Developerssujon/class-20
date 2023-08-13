@@ -1,0 +1,59 @@
+.header-section{
+    background-color:#e3f2fc ;
+}
+.navbar-brand img{
+    width: 30px;
+}
+.breadcrumb{
+    background-color: #e9ecef;
+    padding: 10px;
+}
+.carousel-inner img{
+   height: 500px;
+}
+.alert-warning {
+    color:#1c5e30;
+    background-color: #d4eddb;
+    border-color: #d4eddb;
+}
+
+.progress {
+    display: flex;
+    height: 20px;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+    margin: 10px;
+}
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #298cf9;
+    text-align: left;
+    background-color: #f7f7f7;
+    border: 1px solid #dcdcdc;
+    border-radius:0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+}
+.paginastion-section{
+    margin-top: 100px;
+}
+.scrolspy-section{
+    padding: 40px;
+}
+.paginastion-section{
+    padding: 100px;
+}
+
+
+.footer-section {
+    background-color: rgb(21, 162, 182);
+    color: white;
+    padding: 20px 0;
+}
